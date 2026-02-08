@@ -103,15 +103,16 @@ a:hover {
   text-decoration: none;
 }
 
-/* Center font icons vertically */
-.social-link i {
-  line-height: 1;
+/* Remove the <p> margins Quarto may inject inside social-links */
+.social-links p {
+  margin: 0;
+  display: contents;
 }
 
-/* Size the Bluesky inline SVG to match font icons */
+/* Size the Bluesky SVG to match font icons */
 .social-link svg {
-  width: 1.1em;
-  height: 1.1em;
+  width: 1em;
+  height: 1em;
 }
 
 /* ---------- BIO COLUMN (Landing page) ---------- */
