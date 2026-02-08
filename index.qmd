@@ -1,0 +1,81 @@
+---
+title: ""
+pagetitle: "Your Name"                          # <-- CHANGE: browser tab title
+---
+
+<!-- ============================================================
+     LANDING PAGE
+     Layout: photo + social links on the left, bio text on the right.
+     Edit the placeholder text below to personalise your site.
+     ============================================================ -->
+
+:::: {.grid}
+
+::: {.g-col-12 .g-col-md-4 .profile-column}
+
+<!-- ---------- PROFILE PHOTO ---------- -->
+<!-- Replace img/profile.jpg with your own photo.
+     Recommended: square crop, at least 400x400 px. -->
+![](img/profile.jpg){.profile-photo}
+
+<!-- ---------- YOUR NAME ---------- -->
+### Your Name {.name}
+
+<!-- ---------- AFFILIATION ---------- -->
+Your Title / Position \
+[Department Name](https://your-university.edu/department) \
+[University Name](https://your-university.edu)
+
+<!-- ---------- SOCIAL / ACADEMIC LINKS ---------- -->
+<!-- Icons come from Bootstrap Icons (bundled with Quarto).
+     See https://icons.getbootstrap.com for the full set. -->
+
+<div class="social-links">
+
+[{{< iconify academicons google-scholar >}} Google Scholar](https://scholar.google.com/citations?user=YOUR_ID){.social-link}
+
+[{{< iconify academicons orcid >}} ORCID](https://orcid.org/0000-0000-0000-0000){.social-link}
+
+[{{< iconify fa6-brands bluesky >}} Bluesky](https://bsky.app/profile/yourhandle.bsky.social){.social-link}
+
+[{{< iconify mdi university >}} University Profile](https://your-university.edu/people/yourname){.social-link}
+
+</div>
+
+<!-- OPTIONAL: add more links by copying the pattern above.
+     Useful icon sets: "fa6-brands" (brand logos), "bi" (Bootstrap Icons),
+     "academicons" (academic services). Browse at https://icon-sets.iconify.design -->
+
+:::
+
+::: {.g-col-12 .g-col-md-8 .bio-column}
+
+<!-- ---------- MAIN BIO TEXT ---------- -->
+## Welcome
+
+I am a *[your position]* at the [Department of X](https://your-university.edu/department)
+at [University Name](https://your-university.edu). My research focuses on **[topic 1]**,
+**[topic 2]**, and **[topic 3]**.
+
+<!-- Feel free to write multiple paragraphs. Quarto supports full Markdown. -->
+
+My work examines [brief description of your research agenda, 2-3 sentences].
+I use [methods / approaches] to study [questions / phenomena].
+
+Previously, I received my [degree] from [institution] in [year], where I worked with
+[advisor name] on [brief topic]. Before that, I [any other relevant background].
+
+<!-- ---------- OPTIONAL: NEWS / ANNOUNCEMENTS ---------- -->
+<!-- Uncomment the block below to add a news section. -->
+
+<!--
+### Recent News
+
+- **[Month Year]** -- New paper published in *Journal Name*: "[Paper Title](link)"
+- **[Month Year]** -- Presented at [Conference Name], [City]
+- **[Month Year]** -- Joined [University Name] as [Position]
+-->
+
+:::
+
+::::

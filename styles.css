@@ -1,0 +1,204 @@
+/* ============================================================
+   CUSTOM STYLES FOR ACADEMIC WEBSITE
+   This file is loaded by _quarto.yml.  Edit freely.
+   ============================================================ */
+
+/* ---------- COLOUR VARIABLES ----------
+   Change these to adjust the site's accent colour palette.
+   The defaults below are a muted navy/slate that works for most
+   academic sites.  Swap in your university colours if you like.  */
+:root {
+  --accent:        #2c3e6b;   /* Primary accent (links, buttons)      */
+  --accent-hover:  #1a2a4a;   /* Darker shade for hover states        */
+  --accent-light:  #eef1f7;   /* Very light tint for backgrounds      */
+  --text-primary:  #2c3e50;   /* Main body text                       */
+  --text-secondary:#5a6c7d;   /* Lighter descriptive text             */
+  --border-color:  #dee2e6;   /* Subtle borders                       */
+}
+
+/* ---------- GLOBAL ---------- */
+body {
+  color: var(--text-primary);
+  line-height: 1.7;
+}
+
+a {
+  color: var(--accent);
+}
+a:hover {
+  color: var(--accent-hover);
+}
+
+/* ---------- NAVBAR ---------- */
+.navbar {
+  border-bottom: 2px solid var(--accent);
+  padding-top: 0.8rem;
+  padding-bottom: 0.8rem;
+}
+.navbar .navbar-brand {
+  font-weight: 700;
+  font-size: 1.25rem;
+}
+.navbar .nav-link {
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
+.navbar .nav-link:hover,
+.navbar .nav-link.active {
+  color: var(--accent) !important;
+}
+
+/* ---------- PROFILE COLUMN (Landing page) ---------- */
+.profile-column {
+  text-align: center;
+  padding-top: 1.5rem;
+}
+
+.profile-photo {
+  width: 220px;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 50%;         /* Circle crop — change to 8px for rounded square */
+  border: 3px solid var(--border-color);
+  margin-bottom: 1rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+/* ALTERNATIVE: rounded square instead of circle */
+/* .profile-photo { border-radius: 8px; } */
+
+.profile-column .name {
+  margin-top: 0.5rem;
+  margin-bottom: 0.25rem;
+}
+
+/* ---------- SOCIAL / ACADEMIC LINKS ---------- */
+.social-links {
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.social-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.3rem 0.6rem;
+  border-radius: 4px;
+  text-decoration: none;
+  font-size: 0.95rem;
+  color: var(--text-primary);
+  transition: background-color 0.15s, color 0.15s;
+}
+.social-link:hover {
+  background-color: var(--accent-light);
+  color: var(--accent);
+  text-decoration: none;
+}
+
+/* Make icons slightly larger than the link text */
+.social-link .iconify {
+  font-size: 1.2em;
+}
+
+/* ---------- BIO COLUMN (Landing page) ---------- */
+.bio-column {
+  padding-top: 1.5rem;
+  padding-left: 2rem;
+}
+@media (max-width: 767px) {
+  .bio-column {
+    padding-left: 0;
+  }
+}
+
+/* ---------- PUBLICATION / COURSE ENTRIES ---------- */
+.publication-entry,
+.course-entry {
+  padding: 1rem 1.25rem;
+  margin-bottom: 1rem;
+  border-left: 3px solid var(--accent);
+  background-color: var(--accent-light);
+  border-radius: 0 6px 6px 0;
+}
+.publication-entry p,
+.course-entry p {
+  margin-bottom: 0.3rem;
+}
+
+/* Collapsible abstracts */
+.publication-entry details {
+  margin-top: 0.5rem;
+}
+.publication-entry details summary {
+  cursor: pointer;
+  font-weight: 600;
+  color: var(--accent);
+}
+.publication-entry details[open] summary {
+  margin-bottom: 0.4rem;
+}
+
+/* Small inline buttons (Paper / Preprint / Replication links) */
+.publication-entry .btn-sm,
+.course-entry .btn-sm {
+  margin-right: 0.3rem;
+  margin-top: 0.3rem;
+}
+
+/* ---------- CV PAGE ---------- */
+/* Make the embedded PDF fill available width nicely */
+iframe {
+  max-width: 100%;
+}
+
+/* ---------- HEADINGS ---------- */
+h1, h2, h3 {
+  color: var(--text-primary);
+}
+h2 {
+  margin-top: 2rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid var(--border-color);
+}
+
+/* ---------- RESPONSIVE TWEAKS ---------- */
+@media (max-width: 767px) {
+  .profile-photo {
+    width: 160px;
+    height: 160px;
+  }
+}
+
+/* ============================================================
+   CUSTOMISATION TIPS
+   ============================================================
+
+   1. ACCENT COLOUR
+      Change --accent and --accent-hover in :root above.
+      University brand colours work well here.
+
+   2. PROFILE PHOTO SHAPE
+      Circle (default):   border-radius: 50%;
+      Rounded square:     border-radius: 8px;
+      Plain square:       border-radius: 0;
+
+   3. ENTRY CARD STYLE
+      The left-border cards are defined under .publication-entry.
+      - Remove background: set background-color to transparent
+      - Full border:       replace border-left with border: 1px solid var(--border-color)
+      - No card at all:    remove the entire .publication-entry block
+
+   4. FONTS
+      Quarto's cosmo theme uses system fonts by default.
+      To use Google Fonts, uncomment mainfont in _quarto.yml and add:
+        @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+      at the top of this file.
+
+   5. DARK MODE
+      Uncomment the "dark: darkly" line in _quarto.yml to enable
+      a dark/light toggle in the navbar. The CSS variables above
+      will be overridden by the dark theme automatically.
+   ============================================================ */
