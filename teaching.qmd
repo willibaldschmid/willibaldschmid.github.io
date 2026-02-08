@@ -8,13 +8,13 @@ title: "Teaching"
      your teaching history.
      ============================================================ -->
 
-## Instructor
+## Courses taught as single or co-coordinato
 
 <!-- Each course is a styled card. Edit the details to match your courses. -->
 
 ::: {.course-entry}
-**Course Title (Course Code)** \
-University Name, Semester Year \
+**The Politics of Authoritarian Rule (SV7087)** \
+Stockholm University, Spring 2025 \
 *Role:* Sole Instructor \
 Brief description of the course (1-2 sentences, optional). \
 <!-- [[Syllabus (PDF)]](teaching/syllabus-course1.pdf){.btn .btn-sm .btn-outline-primary} -->
