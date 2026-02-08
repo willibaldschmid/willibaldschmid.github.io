@@ -103,11 +103,14 @@ a:hover {
   text-decoration: none;
 }
 
-/* Force all icons (font icons + SVG) to center in the flex container */
-.social-link i,
+/* Remove the <p> margins Quarto may inject inside social-links */
+.social-links p {
+  margin: 0;
+  display: contents;
+}
+
+/* Size the Bluesky SVG to match font icons */
 .social-link svg {
-  display: block;
-  line-height: 1;
   width: 1em;
   height: 1em;
 }

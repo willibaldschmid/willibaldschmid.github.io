@@ -1,0 +1,39 @@
+---
+title: "Media outreach"
+---
+
+## Outreach
+
+<!-- Public-facing writing, policy work, media, blog posts, etc. -->
+
+::: {.publication-entry}
+**Fra øl i Qatar til fred i Ukraina. Hva kan verdensmesterskapet i fotball lære oss om russisk-ukrainske fredsforhandlinger?** \
+*Op-ed, VG*, 2022. \
+[[Link]](https://www.vg.no/nyheter/meninger/i/rlMPa0/fra-oel-i-qatar-til-fred-i-ukraina?fbclid=IwAR124BkH89BiXeXWkEgCYb4O38ha92xLHnrQ3mIPwaCm_4oflOYOe3laVkY){.btn .btn-sm .btn-outline-primary}
+:::
+
+
+::: {.publication-entry}
+**Three scenarios. How will this war end?** \
+*Podcast appearance: Politisk Psykologi Podcast*, 2022. \
+[[Link]](https://open.spotify.com/episode/1oBDehtpjbtozc8l3VhZN1?si=f575373e02d646fa){.btn .btn-sm .btn-outline-primary}
+:::
+
+::: {.publication-entry}
+**War in Europe: Putin analysed.** \
+*Podcast appearance: Politisk Psykologi Podcast*, 2022. \
+[[Link]](https://open.spotify.com/episode/7ij9jzagy0PKhMeJvodKdn?si=94ae96a27b4c4b4d){.btn .btn-sm .btn-outline-primary}
+:::
+
+
+::: {.publication-entry}
+**Kan Putin tabe et valg?** \
+*Podcast appearance:Radio 4, Kontinentet*, 2021. \
+[[Link]](https://radio4.dk/podcasts/kontinentet/kan-putin-tabe-et-valg){.btn .btn-sm .btn-outline-primary}
+:::
+
+::: {.publication-entry}
+**Tre ens Boris'er på valglisten. Her er valgsvindlens ABC.** \
+*Newspaper source: Zetland*, 2021. \
+[[Link]](https://www.zetland.dk/historie/sejvyL14-aO0E1wr0-5b117){.btn .btn-sm .btn-outline-primary}
+:::

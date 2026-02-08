@@ -8,8 +8,12 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-      - text: "Research"
+      - text: "Publications"
         href: research.qmd
+      - text: "Work in progress"
+        href: index.qmd
+      - text: "Media"
+        href: outreach.qmd
       - text: "CV"
         href: cv.qmd
       # - text: "Teaching"
