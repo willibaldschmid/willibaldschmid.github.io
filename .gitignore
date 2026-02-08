@@ -52,3 +52,7 @@ rsconnect/
 /.quarto/
 _site/
 *_files/
+
+.Rproj
+
+**/*.quarto_ipynb
