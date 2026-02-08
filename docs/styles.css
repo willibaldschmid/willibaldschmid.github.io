@@ -103,11 +103,13 @@ a:hover {
   text-decoration: none;
 }
 
-/* Bluesky inline SVG icon */
-.social-link .bluesky-icon {
-  width: 0.9em;
-  height: 0.9em;
-  vertical-align: -0.25em;
+/* Force all icons (font icons + SVG) to center in the flex container */
+.social-link i,
+.social-link svg {
+  display: block;
+  line-height: 1;
+  width: 1em;
+  height: 1em;
 }
 
 /* ---------- BIO COLUMN (Landing page) ---------- */
