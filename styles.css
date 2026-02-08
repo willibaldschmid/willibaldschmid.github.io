@@ -103,6 +103,12 @@ a:hover {
   text-decoration: none;
 }
 
+/* Inline SVG icons (e.g. Bluesky) */
+.social-link svg.bluesky-icon {
+  width: 1.1em;
+  height: 1.1em;
+}
+
 /* ---------- BIO COLUMN (Landing page) ---------- */
 .bio-column {
   padding-top: 1.5rem;
