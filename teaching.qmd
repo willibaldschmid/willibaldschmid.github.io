@@ -1,0 +1,77 @@
+---
+title: "Teaching"
+---
+
+<!-- ============================================================
+     TEACHING PAGE
+     Lists courses grouped by role. Adapt the structure to fit
+     your teaching history.
+     ============================================================ -->
+
+## Instructor
+
+<!-- Each course is a styled card. Edit the details to match your courses. -->
+
+::: {.course-entry}
+**Course Title (Course Code)** \
+University Name, Semester Year \
+*Role:* Sole Instructor \
+Brief description of the course (1-2 sentences, optional). \
+<!-- [[Syllabus (PDF)]](teaching/syllabus-course1.pdf){.btn .btn-sm .btn-outline-primary} -->
+<!-- [[Evaluations]](link){.btn .btn-sm .btn-outline-secondary} -->
+:::
+
+::: {.course-entry}
+**Another Course Title (Course Code)** \
+University Name, Semester Year \
+*Role:* Sole Instructor \
+Brief description.
+:::
+
+
+## Teaching Assistant
+
+::: {.course-entry}
+**Course Title (Course Code)** \
+University Name, Semester Year \
+*Role:* Teaching Assistant for [Professor Name] \
+Responsibilities: [e.g., led discussion sections, graded problem sets, held office hours].
+:::
+
+::: {.course-entry}
+**Another Course Title (Course Code)** \
+University Name, Semester Year \
+*Role:* Teaching Assistant for [Professor Name]
+:::
+
+
+<!-- ---------- OPTIONAL: GUEST LECTURES ---------- -->
+<!-- Uncomment if applicable.
+
+## Guest Lectures
+
+::: {.course-entry}
+**"Lecture Title"** \
+Course Name (Course Code), University Name, Date \
+*Invited by:* Professor Name
+:::
+-->
+
+
+<!-- ---------- OPTIONAL: TEACHING STATEMENT ---------- -->
+<!-- Uncomment to link a teaching statement PDF.
+
+## Teaching Statement
+
+[[Download Teaching Statement (PDF)]](teaching/teaching-statement.pdf){.btn .btn-outline-primary target="_blank"}
+-->
+
+
+<!-- ---------- OPTIONAL ALTERNATIVE: SIMPLE TABLE FORMAT ----------
+     If you prefer a compact table instead of cards:
+
+     | Course | Role | Institution | Semester |
+     |--------|------|-------------|----------|
+     | Course Title (CODE) | Instructor | University | Fall 2025 |
+     | Course Title (CODE) | TA | University | Spring 2024 |
+-->

@@ -39,11 +39,16 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
-# pkgdown site
-docs/
+# pkgdown site (disabled — docs/ is used for GitHub Pages output)
+# docs/
 
 # translation temp files
 po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Quarto
+/.quarto/
+_site/
+*_files/

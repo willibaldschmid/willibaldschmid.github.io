@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Your Name"                    # <-- CHANGE: Your full name
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+    right:
+      - text: "Research"
+        href: research.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+    # ---------- OPTIONAL NAVBAR CUSTOMISATION ----------
+    # background: dark                  # Options: primary, secondary, success, danger, warning, info, light, dark
+    # pinned: true                      # Keep navbar visible when scrolling
+
+  # Uncomment for a site-wide footer
+  # page-footer:
+  #   center: "&copy; 2026 Your Name. All rights reserved."
+
+  # Search (enabled by default; uncomment to disable)
+  # search: false
+
+format:
+  html:
+    theme:
+      light: cosmo                      # <-- CHANGE (optional): see note in README
+      # dark: darkly                    # Uncomment to add dark-mode toggle
+    css: styles.css
+    toc: false                          # Table of contents off globally (override per page)
+    # fontsize: 1.0em                   # Uncomment to adjust base font size
+    # mainfont: "Lato"                  # Uncomment to change body font (Google Fonts)
+    # monofont: "Fira Code"             # Uncomment to change code font

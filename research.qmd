@@ -1,0 +1,100 @@
+---
+title: "Research"
+---
+
+<!-- ============================================================
+     RESEARCH PAGE
+     Organised into three sections: Publications, Working Papers,
+     and Ongoing Work, plus an optional Outreach section.
+     Fill in your own entries following the patterns below.
+     ============================================================ -->
+
+## Publications
+
+<!-- Each entry follows a consistent format.
+     Adapt freely: add journal links, DOIs, PDF icons, etc.
+     The {.publication-entry} class adds subtle styling (see styles.css). -->
+
+::: {.publication-entry}
+**Title of Your Published Paper** \
+with Coauthor One and Coauthor Two \
+*Journal Name*, Vol(Issue), pp--pp, Year. \
+[[Paper]](https://doi.org/xxxxx){.btn .btn-sm .btn-outline-primary}
+[[Preprint]](link){.btn .btn-sm .btn-outline-secondary}
+[[Replication]](link){.btn .btn-sm .btn-outline-secondary}
+:::
+
+::: {.publication-entry}
+**Another Published Paper Title** \
+with Coauthor Three \
+*Another Journal*, Year. \
+[[Paper]](https://doi.org/xxxxx){.btn .btn-sm .btn-outline-primary}
+:::
+
+<!-- Copy a ::: {.publication-entry} ... ::: block for each additional publication. -->
+
+
+## Working Papers
+
+::: {.publication-entry}
+**Title of Your Working Paper** \
+with Coauthor Name \
+*Revise & Resubmit at Journal Name* | [Latest draft (PDF)](papers/working-paper.pdf) \
+<details>
+<summary>Abstract</summary>
+Write the abstract here. You can use **bold**, *italics*, and other Markdown formatting.
+</details>
+:::
+
+::: {.publication-entry}
+**Another Working Paper** \
+Solo-authored \
+[Latest draft (PDF)](papers/another-paper.pdf) \
+<details>
+<summary>Abstract</summary>
+Another abstract goes here.
+</details>
+:::
+
+
+## Ongoing Work
+
+<!-- For projects without a public draft you can keep descriptions brief. -->
+
+::: {.publication-entry}
+**Descriptive Project Title** \
+with Coauthor Name \
+Brief one-line description of the project.
+:::
+
+::: {.publication-entry}
+**Another Ongoing Project** \
+Brief description.
+:::
+
+
+## Outreach
+
+<!-- Public-facing writing, policy work, media, blog posts, etc. -->
+
+::: {.publication-entry}
+**Title of Policy Brief / Blog Post / Media Piece** \
+*Outlet or Platform*, Month Year. \
+[[Link]](https://example.com){.btn .btn-sm .btn-outline-primary}
+:::
+
+::: {.publication-entry}
+**Another Outreach Piece** \
+*Outlet*, Month Year. \
+[[Link]](https://example.com){.btn .btn-sm .btn-outline-primary}
+:::
+
+<!-- ---------- OPTIONAL ALTERNATIVES ----------
+     If you prefer a simpler list style instead of the styled boxes,
+     replace a section with plain Markdown:
+
+     ## Publications
+
+     1. **Title.** Coauthors. *Journal*, Year. [DOI](link)
+     2. **Title.** Coauthors. *Journal*, Year. [DOI](link)
+-->

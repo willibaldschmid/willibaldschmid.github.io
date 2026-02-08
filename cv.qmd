@@ -1,0 +1,48 @@
+---
+title: "Curriculum Vitae"
+---
+
+<!-- ============================================================
+     CV PAGE
+     This page embeds your CV PDF and provides a download link.
+     Place your CV file at: cv/your-cv.pdf
+     ============================================================ -->
+
+You can download my full CV here:
+
+[[Download CV (PDF)]{.btn .btn-primary}](cv/your-cv.pdf){target="_blank"}
+
+---
+
+<!-- Embedded PDF viewer.
+     This uses an <iframe> so visitors can browse your CV without downloading.
+     If you prefer no embed, delete the <iframe> block and keep only the button. -->
+
+```{=html}
+<iframe
+  src="cv/your-cv.pdf"
+  width="100%"
+  height="800px"
+  style="border: 1px solid #dee2e6; border-radius: 4px;">
+  <p>Your browser does not support embedded PDFs.
+     <a href="cv/your-cv.pdf">Download the CV</a> instead.</p>
+</iframe>
+```
+
+<!-- ---------- OPTIONAL ALTERNATIVE: HTML CV ----------
+     If you want your CV rendered as HTML instead of embedding a PDF,
+     delete everything above and write your CV in Markdown below.
+     Example:
+
+     ## Education
+     - **Ph.D. in X**, University Name, Year
+     - **M.A. in Y**, University Name, Year
+     - **B.A. in Z**, University Name, Year
+
+     ## Employment
+     - **Current Position**, Department, University, Year--present
+     - **Previous Position**, Department, University, Year--Year
+
+     ## Awards & Grants
+     - Award Name, Year
+-->
