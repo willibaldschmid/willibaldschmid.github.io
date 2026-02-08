@@ -103,9 +103,11 @@ a:hover {
   text-decoration: none;
 }
 
-/* Bluesky inline SVG icon */
-.social-link .bluesky-icon {
+/* Force all icons (font icons + SVG) to center in the flex container */
+.social-link i,
+.social-link svg {
   display: block;
+  line-height: 1;
   width: 1em;
   height: 1em;
 }
