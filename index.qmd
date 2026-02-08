@@ -53,29 +53,12 @@ project](https://www.su.se/english/research/research-catalogue/research-projects
 <a href="https://orcid.org/0000-0001-8062-1330" class="social-link" target="_blank">
 <i class="ai ai-orcid"></i> ORCID </a>
 
-<a href="https://bsky.app/profile/yjonaswschmid.bsky.social" class="social-link" target="_blank">
+<a href="https://bsky.app/profile/jonaswschmid.bsky.social" class="social-link" target="_blank">
 <i class="fa-brands fa-bluesky"></i> Bluesky </a>
 
 <a href="https://www.su.se/english/profiles/j/josc1674" class="social-link" target="_blank">
 <i class="fa-solid fa-university"></i> University Profile </a>
 :::
-
-```{=html}
-<!-- OPTIONAL: add more links by copying the pattern above. Examples:
-     <a href="https://github.com/yourname" class="social-link" target="_blank">
-       <i class="fa-brands fa-github"></i> GitHub
-     </a>
-     <a href="https://x.com/yourhandle" class="social-link" target="_blank">
-       <i class="fa-brands fa-x-twitter"></i> X / Twitter
-     </a>
-     <a href="https://linkedin.com/in/yourname" class="social-link" target="_blank">
-       <i class="fa-brands fa-linkedin"></i> LinkedIn
-     </a>
-     <a href="mailto:you@university.edu" class="social-link" target="_blank">
-       <i class="fa-solid fa-envelope"></i> Email
-     </a>                                                                    -->
-```
-::::
 
 ::: {.g-col-12 .g-col-md-8 .bio-column}
 <!-- ---------- MAIN BIO TEXT ---------- -->
