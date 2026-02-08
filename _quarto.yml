@@ -11,7 +11,7 @@ website:
       - text: "Publications"
         href: research.qmd
       - text: "Work in progress"
-        href: index.qmd
+        href: work_in_prog.qmd
       - text: "Media"
         href: outreach.qmd
       - text: "CV"
