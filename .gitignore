@@ -54,3 +54,5 @@ _site/
 *_files/
 
 .Rproj
+
+**/*.quarto_ipynb

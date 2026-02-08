@@ -1,57 +1,66 @@
 ---
 title: ""
-pagetitle: "Your Name"                          # <-- CHANGE: browser tab title
+pagetitle: "Jonas Willibald Schmid"                          # <-- CHANGE: browser tab title
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
+```{=html}
 <!-- ============================================================
      LANDING PAGE
      Layout: photo + social links on the left, bio text on the right.
      Edit the placeholder text below to personalise your site.
      ============================================================ -->
+```
 
-:::: {.grid}
-
-::: {.g-col-12 .g-col-md-4 .profile-column}
-
+:::::: grid
+:::: {.g-col-12 .g-col-md-4 .profile-column}
 <!-- ---------- PROFILE PHOTO ---------- -->
+
+```{=html}
 <!-- Replace img/profile.jpg with your own photo.
      Recommended: square crop, at least 400x400 px. -->
+```
+
 ![](img/profile.jpg){.profile-photo}
 
 <!-- ---------- YOUR NAME ---------- -->
-### Your Name {.name}
+
+### Jonas Willibald Schmid {.name}
 
 <!-- ---------- AFFILIATION ---------- -->
-Your Title / Position \
-[Department Name](https://your-university.edu/department) \
-[University Name](https://your-university.edu)
+
+Postdoc / Stockholm University\
+[Department of Political
+Science](https://www.statsvet.su.se/enheter/statsvetenskapliga-institutionen)\
+[DEMCOOP-
+project](https://www.su.se/english/research/research-catalogue/research-projects/b/democracy-autocracy-and-international-cooperation-demcoop)
 
 <!-- ---------- SOCIAL / ACADEMIC LINKS ---------- -->
+
+```{=html}
 <!-- Icons use Font Awesome (fa-brands) and Academicons (ai), loaded via CDN.
      Browse icons:
        Font Awesome:  https://fontawesome.com/search?o=r&f=brands
        Academicons:   https://jpswalsh.github.io/academicons/              -->
+```
 
-<div class="social-links">
+::: social-links
+<a href="https://scholar.google.com/citations?user=vzIzHHUAAAAJ&hl=de&oi=ao" class="social-link" target="_blank">
+<i class="ai ai-google-scholar"></i> Google Scholar </a>
 
-<a href="https://scholar.google.com/citations?user=YOUR_ID" class="social-link" target="_blank">
-  <i class="ai ai-google-scholar"></i> Google Scholar
-</a>
+<a href="https://orcid.org/0000-0001-8062-1330" class="social-link" target="_blank">
+<i class="ai ai-orcid"></i> ORCID </a>
 
-<a href="https://orcid.org/0000-0000-0000-0000" class="social-link" target="_blank">
-  <i class="ai ai-orcid"></i> ORCID
-</a>
+<a href="https://bsky.app/profile/yjonaswschmid.bsky.social" class="social-link" target="_blank">
+<i class="fa-brands fa-bluesky"></i> Bluesky </a>
 
-<a href="https://bsky.app/profile/yourhandle.bsky.social" class="social-link" target="_blank">
-  <i class="fa-brands fa-bluesky"></i> Bluesky
-</a>
+<a href="https://www.su.se/english/profiles/j/josc1674" class="social-link" target="_blank">
+<i class="fa-solid fa-university"></i> University Profile </a>
+:::
 
-<a href="https://your-university.edu/people/yourname" class="social-link" target="_blank">
-  <i class="fa-solid fa-university"></i> University Profile
-</a>
-
-</div>
-
+```{=html}
 <!-- OPTIONAL: add more links by copying the pattern above. Examples:
      <a href="https://github.com/yourname" class="social-link" target="_blank">
        <i class="fa-brands fa-github"></i> GitHub
@@ -65,29 +74,59 @@ Your Title / Position \
      <a href="mailto:you@university.edu" class="social-link" target="_blank">
        <i class="fa-solid fa-envelope"></i> Email
      </a>                                                                    -->
-
-:::
+```
+::::
 
 ::: {.g-col-12 .g-col-md-8 .bio-column}
-
 <!-- ---------- MAIN BIO TEXT ---------- -->
-## Welcome
 
-I am a *[your position]* at the [Department of X](https://your-university.edu/department)
-at [University Name](https://your-university.edu). My research focuses on **[topic 1]**,
-**[topic 2]**, and **[topic 3]**.
+## Welcome!
+
+I am currently a Postdoc at Stockholm University, working on the
+[DEMCOOP-
+project](https://www.su.se/english/research/research-catalogue/research-projects/b/democracy-autocracy-and-international-cooperation-demcoop),
+led by Jonas Tallberg. Before coming to Stockholm, I received my PhD
+from the University of Oslo for my dissertation "Patterns of minister
+turnover across regime types" in 2024.
+
+My current research focuses primarily on **the effects of regime type on international cooperation**, **the interplay of political institutions and elites**, and **autocratic politics**. My
+work on these topics has been published in journals such as
+*Perspectives on Politics*, *Democratization*, and *Political Studies.*
 
 <!-- Feel free to write multiple paragraphs. Quarto supports full Markdown. -->
 
-My work examines [brief description of your research agenda, 2-3 sentences].
-I use [methods / approaches] to study [questions / phenomena].
 
-Previously, I received my [degree] from [institution] in [year], where I worked with
-[advisor name] on [brief topic]. Before that, I [any other relevant background].
+
+### Interests
+
+-   The interplay of political institutions and elites
+-   Autocratic politics
+-   International cooperation
+
+### Education
+
+<ul class="education-list">
+
+<li><i class="fa-solid fa-graduation-cap"></i> <strong>PhD, Political
+Science, 2024</strong><br>University of Oslo</li>
+
+<li><i class="fa-solid fa-graduation-cap"></i> <strong>M.A., Political
+Science & Public Administration, 2019</strong><br>University of
+Konstanz</li>
+
+<li><i class="fa-solid fa-graduation-cap"></i> <strong>M.Res., Political
+Science, 2019</strong><br>Pompeu Fabra University</li>
+
+<li><i class="fa-solid fa-graduation-cap"></i> <strong>B.A., Political
+Science, 2017</strong><br>Technical University Dresden</li>
+
+</ul>
 
 <!-- ---------- OPTIONAL: NEWS / ANNOUNCEMENTS ---------- -->
+
 <!-- Uncomment the block below to add a news section. -->
 
+```{=html}
 <!--
 ### Recent News
 
@@ -95,7 +134,6 @@ Previously, I received my [degree] from [institution] in [year], where I worked 
 - **[Month Year]** -- Presented at [Conference Name], [City]
 - **[Month Year]** -- Joined [University Name] as [Position]
 -->
-
+```
 :::
-
-::::
+::::::
