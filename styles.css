@@ -103,13 +103,15 @@ a:hover {
   text-decoration: none;
 }
 
-/* Force all icons (font icons + SVG) to center in the flex container */
-.social-link i,
-.social-link svg {
-  display: block;
+/* Center font icons vertically */
+.social-link i {
   line-height: 1;
-  width: 1em;
-  height: 1em;
+}
+
+/* Size the Bluesky inline SVG to match font icons */
+.social-link svg {
+  width: 1.1em;
+  height: 1.1em;
 }
 
 /* ---------- BIO COLUMN (Landing page) ---------- */
