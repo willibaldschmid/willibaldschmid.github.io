@@ -56,19 +56,7 @@ cd YOUR_REPO_NAME
 3. RStudio now recognises this as a Quarto website project. You will see a
    **Build** pane (usually top-right) with a "Render Website" button.
 
-### 2c. Install the Iconify Quarto extension (for social icons)
-
-The landing page uses icons from [Iconify](https://icon-sets.iconify.design)
-via a Quarto extension. Install it once from the **RStudio Terminal** pane:
-
-```bash
-quarto add quarto-ext/iconify
-```
-
-When prompted, type `Y` to trust the extension. This creates a `_extensions/`
-folder in your project — commit it to Git.
-
-### 2d. Add your files
+### 2c. Add your files
 
 - **Profile photo:** Save a square image (≥ 400 × 400 px) as `img/profile.jpg`
   (or `.png` — just update the path in `index.qmd`).
@@ -98,7 +86,6 @@ website/
 ├── teaching/            # Syllabi PDFs (optional)
 ├── docs/                # ← Quarto output (auto-generated, served by GitHub Pages)
 │   └── .nojekyll        #   Tells GitHub not to process with Jekyll
-├── _extensions/         # ← Created after installing iconify extension
 └── .gitignore
 ```
 
@@ -357,14 +344,27 @@ mainfont: "Lato"
 
 ### Adding new social links
 
-In `index.qmd`, copy an existing link and change the icon and URL. Browse icons
-at <https://icon-sets.iconify.design>. Examples:
+In `index.qmd`, copy an existing `<a>` link block and change the icon class and
+URL. Icons come from two CDN-loaded libraries:
 
-```markdown
-[{{< iconify fa6-brands github >}} GitHub](https://github.com/yourname){.social-link}
-[{{< iconify fa6-brands x-twitter >}} X / Twitter](https://x.com/yourhandle){.social-link}
-[{{< iconify fa6-brands linkedin >}} LinkedIn](https://linkedin.com/in/yourname){.social-link}
-[{{< iconify mdi email >}} Email](mailto:you@university.edu){.social-link}
+- **Font Awesome 6** (brand & solid icons): <https://fontawesome.com/search>
+- **Academicons** (academic service icons): <https://jpswalsh.github.io/academicons/>
+
+Examples:
+
+```html
+<a href="https://github.com/yourname" class="social-link" target="_blank">
+  <i class="fa-brands fa-github"></i> GitHub
+</a>
+<a href="https://x.com/yourhandle" class="social-link" target="_blank">
+  <i class="fa-brands fa-x-twitter"></i> X / Twitter
+</a>
+<a href="https://linkedin.com/in/yourname" class="social-link" target="_blank">
+  <i class="fa-brands fa-linkedin"></i> LinkedIn
+</a>
+<a href="mailto:you@university.edu" class="social-link" target="_blank">
+  <i class="fa-solid fa-envelope"></i> Email
+</a>
 ```
 
 ---
@@ -374,7 +374,7 @@ at <https://icon-sets.iconify.design>. Examples:
 | Problem | Solution |
 |---------|----------|
 | `quarto: command not found` | Install Quarto from <https://quarto.org/docs/get-started/> or update RStudio. |
-| Icons don't render | Run `quarto add quarto-ext/iconify` in the project root. |
+| Icons don't render | Icons are loaded from CDNs (Font Awesome + Academicons). Check your internet connection, or verify the `<link>` tags in `_quarto.yml` under `include-in-header`. |
 | Site shows 404 on GitHub | Check Settings → Pages → Source is set to `main` branch, `/docs` folder. Make sure `docs/` is committed. |
 | Changes don't appear on GitHub Pages | Run `quarto render`, commit `docs/`, push, and wait ~1 min. |
 | PDF doesn't embed in CV page | Check the file path matches exactly (case-sensitive). Some mobile browsers don't support iframe PDFs — the download button is the fallback. |

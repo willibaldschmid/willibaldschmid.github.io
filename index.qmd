@@ -27,24 +27,44 @@ Your Title / Position \
 [University Name](https://your-university.edu)
 
 <!-- ---------- SOCIAL / ACADEMIC LINKS ---------- -->
-<!-- Icons come from Bootstrap Icons (bundled with Quarto).
-     See https://icons.getbootstrap.com for the full set. -->
+<!-- Icons use Font Awesome (fa-brands) and Academicons (ai), loaded via CDN.
+     Browse icons:
+       Font Awesome:  https://fontawesome.com/search?o=r&f=brands
+       Academicons:   https://jpswalsh.github.io/academicons/              -->
 
 <div class="social-links">
 
-[{{< iconify academicons google-scholar >}} Google Scholar](https://scholar.google.com/citations?user=YOUR_ID){.social-link}
+<a href="https://scholar.google.com/citations?user=YOUR_ID" class="social-link" target="_blank">
+  <i class="ai ai-google-scholar"></i> Google Scholar
+</a>
 
-[{{< iconify academicons orcid >}} ORCID](https://orcid.org/0000-0000-0000-0000){.social-link}
+<a href="https://orcid.org/0000-0000-0000-0000" class="social-link" target="_blank">
+  <i class="ai ai-orcid"></i> ORCID
+</a>
 
-[{{< iconify fa6-brands bluesky >}} Bluesky](https://bsky.app/profile/yourhandle.bsky.social){.social-link}
+<a href="https://bsky.app/profile/yourhandle.bsky.social" class="social-link" target="_blank">
+  <i class="fa-brands fa-bluesky"></i> Bluesky
+</a>
 
-[{{< iconify mdi university >}} University Profile](https://your-university.edu/people/yourname){.social-link}
+<a href="https://your-university.edu/people/yourname" class="social-link" target="_blank">
+  <i class="fa-solid fa-university"></i> University Profile
+</a>
 
 </div>
 
-<!-- OPTIONAL: add more links by copying the pattern above.
-     Useful icon sets: "fa6-brands" (brand logos), "bi" (Bootstrap Icons),
-     "academicons" (academic services). Browse at https://icon-sets.iconify.design -->
+<!-- OPTIONAL: add more links by copying the pattern above. Examples:
+     <a href="https://github.com/yourname" class="social-link" target="_blank">
+       <i class="fa-brands fa-github"></i> GitHub
+     </a>
+     <a href="https://x.com/yourhandle" class="social-link" target="_blank">
+       <i class="fa-brands fa-x-twitter"></i> X / Twitter
+     </a>
+     <a href="https://linkedin.com/in/yourname" class="social-link" target="_blank">
+       <i class="fa-brands fa-linkedin"></i> LinkedIn
+     </a>
+     <a href="mailto:you@university.edu" class="social-link" target="_blank">
+       <i class="fa-solid fa-envelope"></i> Email
+     </a>                                                                    -->
 
 :::
 

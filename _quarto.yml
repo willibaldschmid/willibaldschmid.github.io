@@ -33,6 +33,10 @@ format:
       # dark: darkly                    # Uncomment to add dark-mode toggle
     css: styles.css
     toc: false                          # Table of contents off globally (override per page)
+    include-in-header:
+      - text: |
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
     # fontsize: 1.0em                   # Uncomment to adjust base font size
     # mainfont: "Lato"                  # Uncomment to change body font (Google Fonts)
     # monofont: "Fira Code"             # Uncomment to change code font
