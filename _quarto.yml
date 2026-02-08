@@ -8,13 +8,14 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-    right:
       - text: "Research"
         href: research.qmd
       - text: "CV"
         href: cv.qmd
-      - text: "Teaching"
-        href: teaching.qmd
+      # - text: "Teaching"
+      #   href: teaching.qmd
+
+
     # ---------- OPTIONAL NAVBAR CUSTOMISATION ----------
     # background: dark                  # Options: primary, secondary, success, danger, warning, info, light, dark
     # pinned: true                      # Keep navbar visible when scrolling
