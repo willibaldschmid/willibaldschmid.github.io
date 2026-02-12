@@ -45,7 +45,7 @@ My current research focuses primarily on **the effects of regime type on interna
 
 <ul class="education-list">
 <li><i class="fa-solid fa-graduation-cap"></i> <strong>PhD, Political Science, 2024</strong><br>University of Oslo</li>
-<li><i class="fa-solid fa-graduation-cap"></i> <strong>M.A., Political Science & Public Administration, 2019</strong><br>University of Konstanz</li>
+<li><i class="fa-solid fa-graduation-cap"></i> <strong>M.A., Politics & Public Administration, 2019</strong><br>University of Konstanz</li>
 <li><i class="fa-solid fa-graduation-cap"></i> <strong>M.Res., Political Science, 2019</strong><br>Pompeu Fabra University</li>
 <li><i class="fa-solid fa-graduation-cap"></i> <strong>B.A., Political Science, 2017</strong><br>Technical University Dresden</li>
 </ul>
