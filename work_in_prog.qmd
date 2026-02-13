@@ -70,7 +70,7 @@ With Faradj Koliev \
 
 ::: {.publication-entry}
 **The Price of Incompetence: Security Failures and Ministerial Accountability in Autocracies.** \
-With Austin s. Matthews \
+With Austin S. Matthews \
 <details>
 <summary>Abstract</summary>
 Do dictators hold their cabinet ministers accountable for policy failures, and do such failures push them to appoint more competent replacements? Existing research emphasizes loyalty as the dominant logic of authoritarian elite management, yet many cabinet portfolios carry responsibilities critical to regime survival. We argue that interior ministers, who oversee internal security and counter-terrorism, offer a revealing test of whether competence matters when the stakes are highest. Using an original dataset of more than 1,000 interior ministers across autocracies from 1970 to 2014, combined with data on terrorist attacks, we show that deadly terrorism significantly increases the likelihood of ministerial dismissal. However, such crises do not lead dictators to appoint successors with greater security expertise, underscoring the limits of competence-based accountability. These findings highlight the high-stakes trade-off between loyalty and performance in authoritarian governance and contribute to research on elite politics, accountability, and the political consequences of terrorism. 
