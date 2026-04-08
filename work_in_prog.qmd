@@ -14,15 +14,15 @@ Physical symbols that represent institutions of power, nations, or individual le
 </details>
 :::
 
-::: {.publication-entry}
-**Governing for growth? Economic performance and finance minister survival in democracies and autocracies.** \
-With Jacob Nyrup \
-[Previous version (PDF)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4437479) \
-<details>
-<summary>Abstract</summary>
-Are the highest-ranking public officials rewarded for good performance? Using the case of finance ministers, we argue that this depends on the type of regime. Democratic leaders have incentives to retain high-performing finance ministers because they are accountable to the population through free and fair elections. In the absence of free and fair elections, autocrats face opposing incentives. While growth stabilizes the regime, a high-performing minister of finance can also be a potential rival. Moreover, autocratic finance ministers will, to a higher degree than democratic, be judged on their ability to enrich the leader rather than creating growth. As a result, autocrats reward finance ministers less for economic growth than democrats. Using data on over 2,800 finance ministers in the period 1966-2021, we demonstrate a close link between economic growth and the retention of finance ministers in democracies but not in autocracies. The findings indicate that democracies are better at fostering and rewarding competence at the highest level of political office, speaking to the merits of democracy relative to autocracy.
-</details>
-:::
+<!-- ::: {.publication-entry} -->
+<!-- **Governing for growth? Economic performance and finance minister survival in democracies and autocracies.** \ -->
+<!-- With Jacob Nyrup \ -->
+<!-- [Previous version (PDF)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4437479) \ -->
+<!-- <details> -->
+<!-- <summary>Abstract</summary> -->
+<!-- Are the highest-ranking public officials rewarded for good performance? Using the case of finance ministers, we argue that this depends on the type of regime. Democratic leaders have incentives to retain high-performing finance ministers because they are accountable to the population through free and fair elections. In the absence of free and fair elections, autocrats face opposing incentives. While growth stabilizes the regime, a high-performing minister of finance can also be a potential rival. Moreover, autocratic finance ministers will, to a higher degree than democratic, be judged on their ability to enrich the leader rather than creating growth. As a result, autocrats reward finance ministers less for economic growth than democrats. Using data on over 2,800 finance ministers in the period 1966-2021, we demonstrate a close link between economic growth and the retention of finance ministers in democracies but not in autocracies. The findings indicate that democracies are better at fostering and rewarding competence at the highest level of political office, speaking to the merits of democracy relative to autocracy. -->
+<!-- </details> -->
+<!-- ::: -->
 
 
 

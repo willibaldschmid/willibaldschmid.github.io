@@ -15,6 +15,14 @@ title: "Publications"
      Adapt freely: add journal links, DOIs, PDF icons, etc.
      The {.publication-entry} class adds subtle styling (see styles.css). -->
 
+
+::: {.publication-entry}
+**Governing for growth? Economic performance and finance minister survival in democracies and autocracies.** \
+With Jacob Nyrup\
+*Political Research Quarterly*, Forthcoming. 
+:::
+
+
 ::: {.publication-entry}
 **Constrainers vs. enablers? Fiscal deficits and the political survival of finance ministers across regime types.** \
 With Lasse Aaskoven\
