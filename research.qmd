@@ -22,7 +22,7 @@ title: "Publications"
 ::: publication-entry
 **Governing for growth? Economic performance and finance minister survival in democracies and autocracies.**\
 With Jacob Nyrup\
-*Political Research Quarterly*, 2026\
+*Political Research Quarterly*, 2026.\
 [\[Paper\]](https://journals.sagepub.com/doi/10.1177/10659129261445888){.btn .btn-sm .btn-outline-primary} [\[Replication materials\]](https://doi.org/10.7910/DVN/8DBURW){.btn .btn-sm .btn-outline-secondary}
 :::
 
