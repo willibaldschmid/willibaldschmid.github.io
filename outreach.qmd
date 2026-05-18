@@ -1,8 +1,7 @@
 ---
-title: "Media outreach"
+title: "Media"
 ---
 
-## Outreach
 
 <!-- Public-facing writing, policy work, media, blog posts, etc. -->
 

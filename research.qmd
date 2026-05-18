@@ -10,6 +10,8 @@ title: "Publications"
      Fill in your own entries following the patterns below.
      ============================================================ -->
 ```
+## Articles
+
 
 <!-- ## Publications -->
 
@@ -53,6 +55,15 @@ Single-authored\
 With Fulya Apaydin, Ferit Serkan Öngel, and Erol Ülker\
 *Industrial Relations Journal*, 2022.\
 [\[Paper\]](https://onlinelibrary.wiley.com/doi/10.1111/irj.12360){.btn .btn-sm .btn-outline-primary}
+:::
+
+
+## Other
+::: publication-entry
+**The rise of autocracies and the transformation of global governance.**\
+With Faradj Koliev and Jonas Tallberg\
+*WFD/PSA Policy brief series: The authoritarian ecosystem*, 2026.\
+[\[Policy Brief\]](https://www.wfd.org/sites/default/files/2026-05/wfd-psa-authoritarian_ecosystem-paper-5-global-governance.pdf){.btn .btn-sm .btn-outline-primary}
 :::
 
 <!-- Copy a ::: {.publication-entry} ... ::: block for each additional publication. -->
