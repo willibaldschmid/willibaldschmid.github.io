@@ -11,9 +11,9 @@ pagetitle: "Jonas Willibald Schmid"
 
 ### Jonas Willibald Schmid {.name}
 
-Postdoc / Stockholm University \
-[Department of Political Science](https://www.su.se/english/profiles/j/josc1674) \
-[DEMCOOP-project](https://www.su.se/english/research/research-catalogue/research-projects/b/democracy-autocracy-and-international-cooperation-demcoop)
+Postdoc / University of Oslo \
+[Department of Political Science](https://www.sv.uio.no/isv/?vrtx=person-view&uid=jonassc) \
+[GETGOV-project](https://www.sv.uio.no/isv/forskning/prosjekter/getgov/)
 
 ```{=html}
 <div class="social-links">
@@ -30,7 +30,7 @@ Postdoc / Stockholm University \
 
 ## Welcome!
 
-I am currently a Postdoc working on the [DEMCOOP-project](https://www.su.se/english/research/research-catalogue/research-projects/b/democracy-autocracy-and-international-cooperation-demcoop) at Stockholm University. Previously, I worked at the University of Oslo, where I received a PhD for my dissertation "Patterns of minister turnover across regime types" in 2024.
+I am currently a Postdoc working on the [GETGOV-project](https://www.sv.uio.no/isv/forskning/prosjekter/getgov/) at the University of Oslo. Previously, I worked at Stockholm University, where I continue to be a member of the [DEMCOOP-project](https://www.su.se/english/research/research-catalogue/research-projects/b/democracy-autocracy-and-international-cooperation-demcoop). I received a PhD for my dissertation "Patterns of minister turnover across regime types" from the University of Oslo in 2024.
 
 My current research focuses primarily on **the effects of regime type on international cooperation**, **the interplay of political institutions and elites**, and **autocratic politics**. My research has been published in journals such as *Perspectives on Politics*, *Democratization*, *Political Studies*, and *Political Research Quarterly*.
 

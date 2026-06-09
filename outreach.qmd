@@ -1,9 +1,17 @@
 ---
-title: "Media"
+title: "Outreach and appearances"
 ---
 
 
 <!-- Public-facing writing, policy work, media, blog posts, etc. -->
+
+
+::: {.publication-entry}
+**How the rise of autocracies is reshaping global governance** \
+*Blog post, Democracy Without Borders*, 2026. \
+[[Link]](https://www.democracywithoutborders.org/43349/how-the-rise-of-autocracies-is-reshaping-global-governance/){.btn .btn-sm .btn-outline-primary}
+:::
+
 
 ::: {.publication-entry}
 **Fra øl i Qatar til fred i Ukraina. Hva kan verdensmesterskapet i fotball lære oss om russisk-ukrainske fredsforhandlinger?** \
