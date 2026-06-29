@@ -7,7 +7,7 @@ pagetitle: "Jonas Willibald Schmid"
 
 ::: {.g-col-12 .g-col-md-4 .profile-column}
 
-![](img/profile.jpg){.profile-photo}
+![](img/profile2.jpg){.profile-photo}
 
 ### Jonas Willibald Schmid {.name}
 
