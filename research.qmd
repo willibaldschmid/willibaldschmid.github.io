@@ -21,6 +21,14 @@ title: "Publications"
      The {.publication-entry} class adds subtle styling (see styles.css). -->
 ```
 
+
+::: publication-entry
+**The Price of Incompetence: Security Failures and Selective Accountability in Autocracies**\
+With Austin S. Matthews\
+*Journal of Conflict Resolution*, Forthcoming.\
+
+:::
+
 ::: publication-entry
 **Governing for growth? Economic performance and finance minister survival in democracies and autocracies.**\
 With Jacob Nyrup\
