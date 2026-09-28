@@ -23,7 +23,7 @@ title: "Publications"
 
 
 ::: publication-entry
-**The Price of Incompetence: Security Failures and Selective Accountability in Autocracies**\
+**The Price of Incompetence: Security Failures and Selective Accountability in Autocracies.**\
 With Austin S. Matthews\
 *Journal of Conflict Resolution*, Forthcoming.\
 
