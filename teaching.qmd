@@ -2,76 +2,164 @@
 title: "Teaching"
 ---
 
-<!-- ============================================================
-     TEACHING PAGE
-     Lists courses grouped by role. Adapt the structure to fit
-     your teaching history.
-     ============================================================ -->
 
-## Courses taught as single or co-coordinator
-
-<!-- Each course is a styled card. Edit the details to match your courses. -->
+## Course convener
 
 ::: {.course-entry}
 **The Politics of Authoritarian Rule (SV7087)** \
-Stockholm University, Spring 2025 \
-*Role:* Sole Instructor \
-Brief description of the course (1-2 sentences, optional). \
-<!-- [[Syllabus (PDF)]](teaching/syllabus-course1.pdf){.btn .btn-sm .btn-outline-primary} -->
-<!-- [[Evaluations]](link){.btn .btn-sm .btn-outline-secondary} -->
+Stockholm University, Spring 2026 \
+*Role:* Course designer, course convener, lecturer (all lectures) \
+MA course \
+[[Course page]](https://www.su.se/english/education/course-catalogue/sv/sv7087){.btn .btn-sm .btn-outline-primary}
 :::
 
 ::: {.course-entry}
-**Another Course Title (Course Code)** \
-University Name, Semester Year \
-*Role:* Sole Instructor \
-Brief description.
-:::
-
-
-## Teaching Assistant
-
-::: {.course-entry}
-**Course Title (Course Code)** \
-University Name, Semester Year \
-*Role:* Teaching Assistant for [Professor Name] \
-Responsibilities: [e.g., led discussion sections, graded problem sets, held office hours].
+**Autocratic Politics (STV 2350)** \
+University of Oslo, Spring 2027 \
+*Role:* Course convener, lecturer (4 lectures) \
+BA course \
+[[Course page]](https://www.uio.no/studier/emner/sv/statsvitenskap/STV2350/){.btn .btn-sm .btn-outline-primary}
 :::
 
 ::: {.course-entry}
-**Another Course Title (Course Code)** \
-University Name, Semester Year \
-*Role:* Teaching Assistant for [Professor Name]
+**Topics in Autocratic Politics (STV 4550)** \
+University of Oslo, Spring 2027 \
+*Role:* Course convener, lecturer (3 lectures) \
+MA course \
+[[Course page]](https://www.uio.no/studier/emner/sv/statsvitenskap/STV4550/index.html){.btn .btn-sm .btn-outline-primary}
 :::
-
-
-<!-- ---------- OPTIONAL: GUEST LECTURES ---------- -->
-<!-- Uncomment if applicable.
-
-## Guest Lectures
 
 ::: {.course-entry}
-**"Lecture Title"** \
-Course Name (Course Code), University Name, Date \
-*Invited by:* Professor Name
+**Applied Statistics for Peace and Conflict Studies (PECOS 4022)** \
+University of Oslo, Fall 2021 & 2022 \
+*Role:* Co-convener, lecturer (5 lectures), seminar leader \
+MA course \
+[[Course page]](https://www.uio.no/studier/emner/sv/statsvitenskap/PECOS4022/){.btn .btn-sm .btn-outline-primary}
 :::
--->
 
 
-<!-- ---------- OPTIONAL: TEACHING STATEMENT ---------- -->
-<!-- Uncomment to link a teaching statement PDF.
+## Lecturer and seminar leader
 
-## Teaching Statement
+::: {.course-entry}
+**Applied Statistics for Peace and Conflict Studies (PECOS 4022)** \
+University of Oslo, Fall 2026 \
+*Role:* Lecturer (3 lectures), seminar leader \
+MA course \
+[[Course page]](https://www.uio.no/studier/emner/sv/statsvitenskap/PECOS4022/){.btn .btn-sm .btn-outline-primary}
+:::
 
-[[Download Teaching Statement (PDF)]](teaching/teaching-statement.pdf){.btn .btn-outline-primary target="_blank"}
--->
+::: {.course-entry}
+**Analytic Perspectives on Peace and Conflict (PECOS 4025)** \
+University of Oslo, Fall 2026 \
+*Role:* Lecturer (2 lectures) \
+MA course \
+[[Course page]](https://www.uio.no/studier/emner/sv/statsvitenskap/PECOS4025/){.btn .btn-sm .btn-outline-primary}
+:::
+
+::: {.course-entry}
+**Digital Data in Political Science (STV 4030A)** \
+University of Oslo, Fall 2026 \
+*Role:* Seminar leader \
+MA course \
+[[Course page]](https://www.uio.no/studier/emner/sv/statsvitenskap/STV4030A/){.btn .btn-sm .btn-outline-primary}
+:::
+
+::: {.course-entry}
+**Master Thesis – Research Design and Project Management (STV 4911)** \
+University of Oslo, Fall 2026 \
+*Role:* Seminar leader \
+MA course \
+[[Course page]](https://www.uio.no/studier/emner/sv/statsvitenskap/STV4911/){.btn .btn-sm .btn-outline-primary}
+:::
+
+::: {.course-entry}
+**Jämförande politik (SVS013)** \
+Stockholm University, Fall 2025 & Spring 2026 \
+*Role:* Lecturer (2 lectures) \
+BA course, taught in Swedish \
+[[Course page]](https://utbildning.su.se/utbildning/utbildningskatalog/sv/svs013){.btn .btn-sm .btn-outline-primary}
+:::
+
+::: {.course-entry}
+**Comparative Politics (SVE013)** \
+Stockholm University, Fall 2025 & Spring 2026 \
+*Role:* Lecturer (2 lectures) \
+BA course \
+[[Course page]](https://utbildning.su.se/english/education/course-catalogue/sv/sve013){.btn .btn-sm .btn-outline-primary}
+:::
+
+::: {.course-entry}
+**Autocratic Politics (STV 2350)** \
+University of Oslo, Spring 2022, 2023 & 2024 \
+*Role:* Lecturer (1 lecture), seminar leader \
+BA course \
+[[Course page]](https://www.uio.no/studier/emner/sv/statsvitenskap/STV2350/){.btn .btn-sm .btn-outline-primary}
+:::
+
+::: {.course-entry}
+**Topics in Autocratic Politics (STV 4550)** \
+University of Oslo, Spring 2022, 2023 & 2024 \
+*Role:* Lecturer (1 lecture) \
+MA course \
+[[Course page]](https://www.uio.no/studier/emner/sv/statsvitenskap/STV4550/index.html){.btn .btn-sm .btn-outline-primary}
+:::
+
+::: {.course-entry}
+**International Security Policy (STV 2230)** \
+University of Oslo, Spring 2021 \
+*Role:* Seminar leader \
+BA course \
+[[Course page]](https://www.uio.no/studier/emner/sv/statsvitenskap/STV2230/index.html){.btn .btn-sm .btn-outline-primary}
+:::
 
 
-<!-- ---------- OPTIONAL ALTERNATIVE: SIMPLE TABLE FORMAT ----------
-     If you prefer a compact table instead of cards:
+## Guest lectures
 
-     | Course | Role | Institution | Semester |
-     |--------|------|-------------|----------|
-     | Course Title (CODE) | Instructor | University | Fall 2025 |
-     | Course Title (CODE) | TA | University | Spring 2024 |
--->
+::: {.course-entry}
+**"Using ChatGPT in quantitative research – Pitfalls and best practices"** \
+Advanced Applied Quantitative Methods (MA course), University of Southern Denmark, Spring 2024 \
+[[Course page]](https://odin.sdu.dk/sitecore/index.php?a=fagbesk&id=131688&listid=27211&lang=en){.btn .btn-sm .btn-outline-primary}
+:::
+
+::: {.course-entry}
+**"Regimer og omfordeling"** \
+Komparativ politikk (STAT1210, BA course, taught in Norwegian), Oslo New University College, Spring 2024 \
+[[Course page]](https://oslonyehoyskole.no/Emner/Komparativ-politikk-STAT1210-10-sp){.btn .btn-sm .btn-outline-primary}
+:::
+
+::: {.course-entry}
+**"GIS/Spatial Data Analysis" and "Statistical Programming with ChatGPT"** \
+Political Data Science Hackathon (ISSSV1337, summer course), University of Oslo, Summer 2023 \
+[[Course page]](https://www.uio.no/studier/emner/iss/sommerskolen/ISSSV1337/index.html){.btn .btn-sm .btn-outline-primary}
+:::
+
+::: {.course-entry}
+**"Autocracies – Politics and Breakdown"** \
+How Democracies Emerge and Survive (ISSSV4385, summer course), University of Oslo, Summer 2023 \
+[[Course page]](https://www.uio.no/studier/emner/iss/sommerskolen/ISSSV4385/index.html){.btn .btn-sm .btn-outline-primary}
+:::
+
+
+## Supervision
+
+::: {.course-entry}
+**Master thesis supervision** \
+University of Oslo, 2022 & 2026 \
+Supervision of 5 students
+:::
+
+::: {.course-entry}
+**Bachelor thesis supervision** \
+Stockholm University, Fall 2025 \
+Supervision of 2 students
+:::
+
+
+## Other
+
+::: {.course-entry}
+**Coffee and Coding (R help sessions)** \
+University of Oslo, Spring & Fall 2022 \
+*Role:* Co-organizer, session leader \
+[[Info]](https://www.sv.uio.no/isv/english/research/courses/coffeeandcode.html){.btn .btn-sm .btn-outline-primary}
+:::

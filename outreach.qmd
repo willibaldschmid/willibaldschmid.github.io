@@ -5,6 +5,7 @@ title: "Outreach and appearances"
 
 <!-- Public-facing writing, policy work, media, blog posts, etc. -->
 
+## Writing
 
 ::: {.publication-entry}
 **How the rise of autocracies is reshaping global governance** \
@@ -17,6 +18,15 @@ title: "Outreach and appearances"
 **Fra øl i Qatar til fred i Ukraina. Hva kan verdensmesterskapet i fotball lære oss om russisk-ukrainske fredsforhandlinger?** \
 *Op-ed, VG*, 2022. \
 [[Link]](https://www.vg.no/nyheter/meninger/i/rlMPa0/fra-oel-i-qatar-til-fred-i-ukraina?fbclid=IwAR124BkH89BiXeXWkEgCYb4O38ha92xLHnrQ3mIPwaCm_4oflOYOe3laVkY){.btn .btn-sm .btn-outline-primary}
+:::
+
+
+## Media appearances
+
+::: {.publication-entry}
+**Soziale Herkunft – Warum Politik so elitär bleibt** \
+*Radio appearance: Deutschlandfunk*, 2026. \
+[[Link]](https://www.deutschlandfunk.de/soziale-herkunft-warum-politik-so-elitaer-bleibt-100.html){.btn .btn-sm .btn-outline-primary}
 :::
 
 
@@ -35,7 +45,7 @@ title: "Outreach and appearances"
 
 ::: {.publication-entry}
 **Kan Putin tabe et valg?** \
-*Podcast appearance:Radio 4, Kontinentet*, 2021. \
+*Podcast appearance: Radio 4, Kontinentet*, 2021. \
 [[Link]](https://radio4.dk/podcasts/kontinentet/kan-putin-tabe-et-valg){.btn .btn-sm .btn-outline-primary}
 :::
 

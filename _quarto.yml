@@ -12,12 +12,12 @@ website:
         href: research.qmd
       - text: "Work in progress"
         href: work_in_prog.qmd
+      - text: "Teaching"
+        href: teaching.qmd
       - text: "Media"
         href: outreach.qmd
       - text: "CV"
         href: cv.qmd
-      # - text: "Teaching"
-      #   href: teaching.qmd
 
 
     # ---------- OPTIONAL NAVBAR CUSTOMISATION ----------
