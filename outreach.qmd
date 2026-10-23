@@ -24,7 +24,7 @@ title: "Outreach and appearances"
 ## Media appearances
 
 ::: {.publication-entry}
-**Soziale Herkunft – Warum Politik so elitär bleibt** \
+**Soziale Herkunft – Warum Politik so elitär bleibt.** \
 *Radio appearance: Deutschlandfunk*, 2026. \
 [[Link]](https://www.deutschlandfunk.de/soziale-herkunft-warum-politik-so-elitaer-bleibt-100.html){.btn .btn-sm .btn-outline-primary}
 :::
