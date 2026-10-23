@@ -2,14 +2,8 @@
 title: "Publications"
 ---
 
-```{=html}
-<!-- ============================================================
-     RESEARCH PAGE
-     Organised into three sections: Publications, Working Papers,
-     and Ongoing Work, plus an optional Outreach section.
-     Fill in your own entries following the patterns below.
-     ============================================================ -->
-```
+
+
 ## Articles
 
 
