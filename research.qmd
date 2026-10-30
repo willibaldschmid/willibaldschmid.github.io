@@ -16,6 +16,15 @@ title: "Publications"
 ```
 
 
+
+
+::: publication-entry
+**Executive Constraints and Focal Points: Facilitators of Democratic Breakdowns Led by Incumbents versus Non-incumbents, 1789-2020.**\
+With Vilde Lunnan Djuve, Carl Henrik Knutsen, and Svend-Erik Skaaning\
+*Democratization*, Forthcoming.\
+
+:::
+
 ::: publication-entry
 **The Price of Incompetence: Security Failures and Selective Accountability in Autocracies.**\
 With Austin S. Matthews\

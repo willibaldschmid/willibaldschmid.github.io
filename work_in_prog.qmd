@@ -93,20 +93,20 @@ Physical symbols that represent institutions of power, nations, or individual le
 </details>
 :::
 
-## Democratic breakdown
+<!-- ## Democratic breakdown -->
 
-::: publication-entry
-**Executive Constraints and Focal Points: Facilitators of Democratic Breakdowns Led by Incumbents versus Non-incumbents, 1789-2020.**\
-With Vilde Lunnan Djuve, Carl Henrik Knutsen, and Svend-Erik Skaaning\
+<!-- ::: publication-entry -->
+<!-- **Executive Constraints and Focal Points: Facilitators of Democratic Breakdowns Led by Incumbents versus Non-incumbents, 1789-2020.**\ -->
+<!-- With Vilde Lunnan Djuve, Carl Henrik Knutsen, and Svend-Erik Skaaning\ -->
 
-<details>
+<!-- <details> -->
 
-<summary>Abstract</summary>
+<!-- <summary>Abstract</summary> -->
 
-Democratic breakdowns are typically initiated either by government incumbents or by domestic actors outside an elected government, such as the military. The actors behind these ideal-type modes often have different motives and capacities to undermine democracy and may therefore be influenced by different factors. We focus on two facilitators: institutional constraints on the executive and external shocks, theorizing that the former is more relevant to the risk of incumbent-led breakdowns, while the latter is more likely to prompt non-incumbent takeovers. Our analysis, spanning most democratic regime spells since 1789, shows that economic crises, one form of shock, significantly correlates only with non-incumbent takeovers, while regional democratic breakdown shows no significant association with either mode. Institutional constraints on the executive are linked to both modes. These findings only partially align with our theoretical argument, and we discuss alternative explanations, such as rival elites preemptively acting against perceived threats from opposing groups.
+<!-- Democratic breakdowns are typically initiated either by government incumbents or by domestic actors outside an elected government, such as the military. The actors behind these ideal-type modes often have different motives and capacities to undermine democracy and may therefore be influenced by different factors. We focus on two facilitators: institutional constraints on the executive and external shocks, theorizing that the former is more relevant to the risk of incumbent-led breakdowns, while the latter is more likely to prompt non-incumbent takeovers. Our analysis, spanning most democratic regime spells since 1789, shows that economic crises, one form of shock, significantly correlates only with non-incumbent takeovers, while regional democratic breakdown shows no significant association with either mode. Institutional constraints on the executive are linked to both modes. These findings only partially align with our theoretical argument, and we discuss alternative explanations, such as rival elites preemptively acting against perceived threats from opposing groups. -->
 
-</details>
-:::
+<!-- </details> -->
+<!-- ::: -->
 
 ## Public opinion and economic policy
 
